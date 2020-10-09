@@ -21,7 +21,8 @@
     "sass": "^1.26.10",
     "stripe": "^8.79.0",
     "swr": "^0.2.3",
-    "unfetch": "^4.1.0"
+    "unfetch": "^4.1.0",
+    "node-fetch": ">=2.6.1"
   },
   "devDependencies": {
     "@types/micro": "^7.3.3",
